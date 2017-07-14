@@ -1,6 +1,3 @@
-# undefined-developer-curiosities
-Links to what the undefined group thinks are relevant 
-
 ## Training
 ### AWS Certification 
 
