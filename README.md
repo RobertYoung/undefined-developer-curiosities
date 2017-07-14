@@ -3,6 +3,7 @@
 
 ### Server Logging
 - [Prometheus](https://prometheus.io/)
+- [Zipkin (Distributed tracing)](http://zipkin.io/)
 
 ## Training
 ### AWS Certification 
