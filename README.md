@@ -14,6 +14,7 @@
 #### Testing
 - [Test Kitchen](https://github.com/test-kitchen/test-kitchen)
 - [InSpec](https://github.com/chef/inspec)
+- [The Intern](https://theintern.io/)
 
 ### Server Logging/Monitoring
 - [Prometheus](https://prometheus.io/)
